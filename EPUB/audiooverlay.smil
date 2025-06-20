@@ -1,0 +1,1351 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+
+  <seq id="mp" epub:textref="maliprinc.xhtml" epub:type="bodymatter chapter">
+	      <par id="mpp01">
+	        <text src="maliprinc.xhtml#mpp01"/>
+	        <audio src="audio.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.700"/>
+	      </par>
+        <par id="mpp02">
+	        <text src="maliprinc.xhtml#mpp02"/>
+	        <audio src="audio.mp3" clipBegin="0:00:03.700" clipEnd="0:00:42.000"/>
+	      </par>
+        <par id="mpp03">
+	        <text src="maliprinc.xhtml#mpp03"/>
+	        <audio src="audio.mp3" clipBegin="0:00:42.000" clipEnd="0:00:44.500"/>
+	      </par>
+        <par id="mpp04">
+	        <text src="maliprinc.xhtml#mpp04"/>
+	        <audio src="audio.mp3" clipBegin="0:00:44.500" clipEnd="0:00:48.000"/>
+	      </par>    
+  </seq>
+
+  <seq id="ch01" epub:textref="poglavlje1.xhtml" epub:type="bodymatter chapter">
+	      <par id="ch01p01">
+	        <text src="poglavlje1.xhtml#ch01p01"/>
+	        <audio src="audio.mp3" clipBegin="0:00:48.000" clipEnd="0:01:03.500"/>
+	      </par>
+        <par id="ch01p02">
+	        <text src="poglavlje1.xhtml#ch01p02"/>
+	        <audio src="audio.mp3" clipBegin="0:01:03.500" clipEnd="0:01:14.800"/>
+	      </par>
+        <par id="ch01p03">
+	        <text src="poglavlje1.xhtml#ch01p03"/>
+	        <audio src="audio.mp3" clipBegin="0:01:14.800" clipEnd="0:01:25.000"/>
+	      </par>
+        <par id="ch01p04">
+	        <text src="poglavlje1.xhtml#ch01p04"/>
+	        <audio src="audio.mp3" clipBegin="0:01:25.000" clipEnd="0:01:33.100"/>
+	      </par>
+        <par id="ch01p05">
+	        <text src="poglavlje1.xhtml#ch01p05"/>
+	        <audio src="audio.mp3" clipBegin="0:01:33.100" clipEnd="0:01:37.700"/>
+	      </par>
+        <par id="ch01p06">
+	        <text src="poglavlje1.xhtml#ch01p06"/>
+	        <audio src="audio.mp3" clipBegin="0:01:37.700" clipEnd="0:01:54.000"/>
+	      </par>
+        <par id="ch01p07">
+	        <text src="poglavlje1.xhtml#ch01p07"/>
+	        <audio src="audio.mp3" clipBegin="0:01:54.000" clipEnd="0:02:09.700"/>
+	      </par>
+        <par id="ch01p08">
+	        <text src="poglavlje1.xhtml#ch01p08"/>
+	        <audio src="audio.mp3" clipBegin="0:02:09.700" clipEnd="0:02:22.300"/>
+	      </par>
+        <par id="ch01p09">
+	        <text src="poglavlje1.xhtml#ch01p09"/>
+	        <audio src="audio.mp3" clipBegin="0:02:22.300" clipEnd="0:02:40.300"/>
+	      </par>
+        <par id="ch01p10">
+	        <text src="poglavlje1.xhtml#ch01p10"/>
+	        <audio src="audio.mp3" clipBegin="0:02:40.300" clipEnd="0:02:50.500"/>
+	      </par>
+        <par id="ch01p11">
+	        <text src="poglavlje1.xhtml#ch01p11"/>
+	        <audio src="audio.mp3" clipBegin="0:02:50.500" clipEnd="0:03:25.000"/>
+	      </par>                  
+  </seq>
+
+  <seq id="ch02" epub:textref="poglavlje2.xhtml" epub:type="bodymatter chapter">
+	      <par id="ch02p01">
+            <text src="poglavlje2.xhtml#ch02p01"/>
+            <audio src="audio.mp3" clipBegin="0:03:25.000" clipEnd="0:03:52.000"/>
+        </par>
+        <par id="ch02p02">
+            <text src="poglavlje2.xhtml#ch02p02"/>
+            <audio src="audio.mp3" clipBegin="0:03:52.000" clipEnd="0:04:12.000"/>
+        </par>
+        <par id="ch02p03">
+            <text src="poglavlje2.xhtml#ch02p03"/>
+            <audio src="audio.mp3" clipBegin="0:04:12.000" clipEnd="0:04:15.500"/>
+        </par>
+        <par id="ch02p04">
+            <text src="poglavlje2.xhtml#ch02p04"/>
+            <audio src="audio.mp3" clipBegin="0:04:15.500" clipEnd="0:04:17.500"/>
+        </par>
+        <par id="ch02p05">
+            <text src="poglavlje2.xhtml#ch02p05"/>
+            <audio src="audio.mp3" clipBegin="0:04:17.500" clipEnd="0:04:19.500"/>
+        </par>
+        <par id="ch02p06">
+            <text src="poglavlje2.xhtml#ch02p06"/>
+            <audio src="audio.mp3" clipBegin="0:04:19.500" clipEnd="0:04:52.500"/>
+        </par>
+        <par id="ch02p07">
+            <text src="poglavlje2.xhtml#ch02p07"/>
+            <audio src="audio.mp3" clipBegin="0:04:52.500" clipEnd="0:05:20.000"/>
+        </par>
+        <par id="ch02p08">
+            <text src="poglavlje2.xhtml#ch02p08"/>
+            <audio src="audio.mp3" clipBegin="0:05:20.000" clipEnd="0:05:23.000"/>
+        </par>
+        <par id="ch02p09">
+            <text src="poglavlje2.xhtml#ch02p09"/>
+            <audio src="audio.mp3" clipBegin="0:05:23.000" clipEnd="0:05:27.000"/>
+        </par>
+        <par id="ch02p10">
+            <text src="poglavlje2.xhtml#ch02p10"/>
+            <audio src="audio.mp3" clipBegin="0:05:27.000" clipEnd="0:05:31.000"/>
+        </par>
+        <par id="ch02p11">
+            <text src="poglavlje2.xhtml#ch02p11"/>
+            <audio src="audio.mp3" clipBegin="0:05:31.000" clipEnd="0:06:00.000"/>
+        </par>
+        <par id="ch02p12">
+            <text src="poglavlje2.xhtml#ch02p12"/>
+            <audio src="audio.mp3" clipBegin="0:06:00.000" clipEnd="0:06:04.000"/>
+        </par>
+        <par id="ch02p13">
+            <text src="poglavlje2.xhtml#ch02p13"/>
+            <audio src="audio.mp3" clipBegin="0:06:04.000" clipEnd="0:06:17.700"/>
+        </par>
+        <par id="ch02p14">
+            <text src="poglavlje2.xhtml#ch02p14"/>
+            <audio src="audio.mp3" clipBegin="0:06:17.700" clipEnd="0:06:31.000"/>
+        </par>
+        <par id="ch02p15">
+            <text src="poglavlje2.xhtml#ch02p15"/>
+            <audio src="audio.mp3" clipBegin="0:06:31.000" clipEnd="0:06:34.000"/>
+        </par>
+        <par id="ch02p16">
+            <text src="poglavlje2.xhtml#ch02p16"/>
+            <audio src="audio.mp3" clipBegin="0:06:34.000" clipEnd="0:06:36.000"/>
+        </par>
+        <par id="ch02p17">
+            <text src="poglavlje2.xhtml#ch02p17"/>
+            <audio src="audio.mp3" clipBegin="0:06:36.000" clipEnd="0:06:40.700"/>
+        </par>
+        <par id="ch02p18">
+            <text src="poglavlje2.xhtml#ch02p18"/>
+            <audio src="audio.mp3" clipBegin="0:06:40.700" clipEnd="0:06:42.200"/>
+        </par>
+        <par id="ch02p19">
+            <text src="poglavlje2.xhtml#ch02p19"/>
+            <audio src="audio.mp3" clipBegin="0:06:42.200" clipEnd="0:06:45.500"/>
+        </par>
+        <par id="ch02p20">
+            <text src="poglavlje2.xhtml#ch02p20"/>
+            <audio src="audio.mp3" clipBegin="0:06:45.500" clipEnd="0:06:51.000"/>
+        </par>
+        <par id="ch02p21">
+            <text src="poglavlje2.xhtml#ch02p21"/>
+            <audio src="audio.mp3" clipBegin="0:06:51.000" clipEnd="0:06:53.000"/>
+        </par>
+        <par id="ch02p22">
+            <text src="poglavlje2.xhtml#ch02p22"/>
+            <audio src="audio.mp3" clipBegin="0:06:53.000" clipEnd="0:06:56.500"/>
+        </par>
+        <par id="ch02p23">
+            <text src="poglavlje2.xhtml#ch02p23"/>
+            <audio src="audio.mp3" clipBegin="0:06:56.500" clipEnd="0:07:00.500"/>
+        </par>
+        <par id="ch02p24">
+            <text src="poglavlje2.xhtml#ch02p24"/>
+            <audio src="audio.mp3" clipBegin="0:07:00.500" clipEnd="0:07:07.200"/>
+        </par>
+        <par id="ch02p25">
+            <text src="poglavlje2.xhtml#ch02p25"/>
+            <audio src="audio.mp3" clipBegin="0:07:07.200" clipEnd="0:07:08.500"/>
+        </par>
+        <par id="ch02p26">
+            <text src="poglavlje2.xhtml#ch02p26"/>
+            <audio src="audio.mp3" clipBegin="0:07:08.500" clipEnd="0:07:12.500"/>
+        </par>
+        <par id="ch02p27">
+            <text src="poglavlje2.xhtml#ch02p27"/>
+            <audio src="audio.mp3" clipBegin="0:07:12.500" clipEnd="0:07:16.500"/>
+        </par>
+        <par id="ch02p28">
+            <text src="poglavlje2.xhtml#ch02p28"/>
+            <audio src="audio.mp3" clipBegin="0:07:16.500" clipEnd="0:07:22.000"/>
+        </par>
+        <par id="ch02p29">
+            <text src="poglavlje2.xhtml#ch02p29"/>
+            <audio src="audio.mp3" clipBegin="0:07:22.000" clipEnd="0:07:23.500"/>
+        </par>
+        <par id="ch02p30">
+            <text src="poglavlje2.xhtml#ch02p30"/>
+            <audio src="audio.mp3" clipBegin="0:07:23.500" clipEnd="0:07:26.500"/>
+        </par>
+        <par id="ch02p31">
+            <text src="poglavlje2.xhtml#ch02p31"/>
+            <audio src="audio.mp3" clipBegin="0:07:26.500" clipEnd="0:07:31.500"/>
+        </par>
+        <par id="ch02p32">
+            <text src="poglavlje2.xhtml#ch02p32"/>
+            <audio src="audio.mp3" clipBegin="0:07:31.500" clipEnd="0:07:33.500"/>
+        </par>
+        <par id="ch02p33">
+            <text src="poglavlje2.xhtml#ch02p33"/>
+            <audio src="audio.mp3" clipBegin="0:07:33.500" clipEnd="0:07:39.000"/>
+        </par>
+        <par id="ch02p34">
+            <text src="poglavlje2.xhtml#ch02p34"/>
+            <audio src="audio.mp3" clipBegin="0:07:39.000" clipEnd="0:07:42.500"/>
+        </par>                   
+  </seq>
+
+
+
+<seq id="ch03" epub:textref="poglavlje3.xhtml" epub:type="bodymatter chapter">
+
+            <par id="ch03p01">
+                <text src="poglavlje3.xhtml#ch03p01"/>
+                <audio src="audio.mp3" clipBegin="0:07:42.500" clipEnd="0:08:10.150"/>
+            </par>
+
+            <par id="ch03p02">
+                <text src="poglavlje3.xhtml#ch03p02"/>
+                <audio src="audio.mp3" clipBegin="0:08:10.150" clipEnd="0:08:12.443"/>
+            </par>
+
+            <par id="ch03p03">
+                <text src="poglavlje3.xhtml#ch03p03"/>
+                <audio src="audio.mp3" clipBegin="0:08:12.443" clipEnd="0:08:18.258"/>
+            </par>
+
+            <par id="ch03p04">
+                <text src="poglavlje3.xhtml#ch03p04"/>
+                <audio src="audio.mp3" clipBegin="0:08:18.258" clipEnd="0:08:22.993"/>
+            </par>
+
+            <par id="ch03p05">
+                <text src="poglavlje3.xhtml#ch03p05"/>
+                <audio src="audio.mp3" clipBegin="0:08:22.993" clipEnd="0:08:26.268"/>
+            </par>
+
+            <par id="ch03p06">
+                <text src="poglavlje3.xhtml#ch03p06"/>
+                <audio src="audio.mp3" clipBegin="0:08:26.268" clipEnd="0:08:28.918"/>
+            </par>
+
+            <par id="ch03p07">
+                <text src="poglavlje3.xhtml#ch03p07"/>
+                <audio src="audio.mp3" clipBegin="0:08:28.918" clipEnd="0:08:31.285"/>
+            </par>
+
+            <par id="ch03p08">
+                <text src="poglavlje3.xhtml#ch03p08"/>
+                <audio src="audio.mp3" clipBegin="0:08:31.285" clipEnd="0:08:41.387"/>
+            </par>
+
+            <par id="ch03p09">
+                <text src="poglavlje3.xhtml#ch03p09"/>
+                <audio src="audio.mp3" clipBegin="0:08:41.387" clipEnd="0:08:45.665"/>
+            </par>
+
+            <par id="ch03p10">
+                <text src="poglavlje3.xhtml#ch03p10"/>
+                <audio src="audio.mp3" clipBegin="0:08:45.665" clipEnd="0:08:50.971"/>
+            </par>
+
+            <par id="ch03p11">
+                <text src="poglavlje3.xhtml#ch03p11"/>
+                <audio src="audio.mp3" clipBegin="0:08:50.971" clipEnd="0:08:54.580"/>
+            </par>
+
+            <par id="ch03p12">
+                <text src="poglavlje3.xhtml#ch03p12"/>
+                <audio src="audio.mp3" clipBegin="0:08:54.580" clipEnd="0:09:01.591"/>
+            </par>
+
+            <par id="ch03p13">
+                <text src="poglavlje3.xhtml#ch03p13"/>
+                <audio src="audio.mp3" clipBegin="0:09:01.591" clipEnd="0:09:07.600"/>
+            </par>
+
+            <par id="ch03p14">
+                <text src="poglavlje3.xhtml#ch03p14"/>
+                <audio src="audio.mp3" clipBegin="0:09:07.600" clipEnd="0:09:16.890"/>
+            </par>
+
+            <par id="ch03p15">
+                <text src="poglavlje3.xhtml#ch03p15"/>
+                <audio src="audio.mp3" clipBegin="0:09:16.890" clipEnd="0:09:26.507"/>
+            </par>
+
+            <par id="ch03p16">
+                <text src="poglavlje3.xhtml#ch03p16"/>
+                <audio src="audio.mp3" clipBegin="0:09:26.507" clipEnd="0:09:33.234"/>
+            </par>
+
+            <par id="ch03p17">
+                <text src="poglavlje3.xhtml#ch03p17"/>
+                <audio src="audio.mp3" clipBegin="0:09:33.234" clipEnd="0:09:36.843"/>
+            </par>
+
+            <par id="ch03p18">
+                <text src="poglavlje3.xhtml#ch03p18"/>
+                <audio src="audio.mp3" clipBegin="0:09:36.843" clipEnd="0:09:43.080"/>
+            </par>
+
+            <par id="ch03p19">
+                <text src="poglavlje3.xhtml#ch03p19"/>
+                <audio src="audio.mp3" clipBegin="0:09:43.080" clipEnd="0:09:50.330"/>
+            </par>
+
+            <par id="ch03p20">
+                <text src="poglavlje3.xhtml#ch03p20"/>
+                <audio src="audio.mp3" clipBegin="0:09:50.330" clipEnd="0:09:53.546"/>
+            </par>
+
+            <par id="ch03p21">
+                <text src="poglavlje3.xhtml#ch03p21"/>
+                <audio src="audio.mp3" clipBegin="0:09:53.546" clipEnd="0:09:57.253"/>
+            </par>
+
+            <par id="ch03p22">
+                <text src="poglavlje3.xhtml#ch03p22"/>
+                <audio src="audio.mp3" clipBegin="0:09:57.253" clipEnd="0:10:01.253"/>
+            </par>
+
+            <par id="ch03p23">
+                <text src="poglavlje3.xhtml#ch03p23"/>
+                <audio src="audio.mp3" clipBegin="0:10:01.253" clipEnd="0:10:03.816"/>
+            </par>
+
+            <par id="ch03p24">
+                <text src="poglavlje3.xhtml#ch03p24"/>
+                <audio src="audio.mp3" clipBegin="0:10:03.816" clipEnd="0:10:07.637"/>
+            </par>
+
+            <par id="ch03p25">
+                <text src="poglavlje3.xhtml#ch03p25"/>
+                <audio src="audio.mp3" clipBegin="0:10:07.637" clipEnd="0:10:10.560"/>
+            </par>
+
+            <par id="ch03p26">
+                <text src="poglavlje3.xhtml#ch03p26"/>
+                <audio src="audio.mp3" clipBegin="0:10:10.560" clipEnd="0:10:13.907"/>
+            </par>
+
+            <par id="ch03p27">
+                <text src="poglavlje3.xhtml#ch03p27"/>
+                <audio src="audio.mp3" clipBegin="0:10:13.907" clipEnd="0:10:18.413"/>
+            </par>
+
+            <par id="ch03p28">
+                <text src="poglavlje3.xhtml#ch03p28"/>
+                <audio src="audio.mp3" clipBegin="0:10:18.413" clipEnd="0:10:20.797"/>
+            </par>
+
+            <par id="ch03p29">
+                <text src="poglavlje3.xhtml#ch03p29"/>
+                <audio src="audio.mp3" clipBegin="0:10:20.797" clipEnd="0:10:26.700"/>
+            </par>
+
+        </seq>
+
+
+	  <seq id="ch04" epub:textref="poglavlje4.xhtml" epub:type="bodymatter chapter">
+        <par id="ch04p01">
+          <text src="poglavlje4.xhtml#ch04p01"/>
+          <audio src="audio.mp3" clipBegin="0:10:26.700" clipEnd="0:10:36.500"/>
+        </par>
+        <par id="par2">
+          <text src="poglavlje4.xhtml#ch04p02"/>
+          <audio src="audio.mp3" clipBegin="0:10:36.500" clipEnd="0:11:02.000"/>
+        </par>
+        <par id="par3">
+          <text src="poglavlje4.xhtml#ch04p03"/>
+          <audio src="audio.mp3" clipBegin="0:11:02.000" clipEnd="0:11:16.500"/>
+        </par>
+        <par id="par4">
+          <text src="poglavlje4.xhtml#ch04p04"/>
+          <audio src="audio.mp3" clipBegin="0:11:16.500" clipEnd="0:11:29.000"/>
+        </par>
+        <par id="par5">
+          <text src="poglavlje4.xhtml#ch04p05"/>
+          <audio src="audio.mp3" clipBegin="0:11:29.000" clipEnd="0:11:48.500"/>
+        </par>
+        <par id="par6">
+          <text src="poglavlje4.xhtml#ch04p06"/>
+          <audio src="audio.mp3" clipBegin="0:11:48.500" clipEnd="0:12:48.000"/>
+        </par>
+        <par id="par7">
+          <text src="poglavlje4.xhtml#ch04p07"/>
+          <audio src="audio.mp3" clipBegin="0:12:48.000" clipEnd="0:13:22.500"/>
+        </par>
+        <par id="par8">
+          <text src="poglavlje4.xhtml#ch04p08"/>
+          <audio src="audio.mp3" clipBegin="0:13:22.500" clipEnd="0:13:35.000"/>
+        </par>
+        <par id="par9">
+          <text src="poglavlje4.xhtml#ch04p09"/>
+          <audio src="audio.mp3" clipBegin="0:13:35.000" clipEnd="0:13:49.000"/>
+        </par>
+        <par id="par10">
+          <text src="poglavlje4.xhtml#ch04p10"/>
+          <audio src="audio.mp3" clipBegin="0:13:49.000" clipEnd="0:15:16.000"/>
+        </par>
+	 </seq>
+
+ <seq id="ch05" epub:textref="poglavlje5.xhtml" epub:type="bodymatter chapter">
+            <par id="ch05p01">
+                <text src="poglavlje5.xhtml#ch05p01"/>
+                <audio src="audio.mp3" clipBegin="0:15:16.000" clipEnd="0:15:30.000"/>
+            </par>
+            <par id="ch05p02">
+                <text src="poglavlje5.xhtml#ch05p02"/>
+                <audio src="audio.mp3" clipBegin="0:15:30.000" clipEnd="0:15:38.000"/>
+            </par>
+            <par id="ch05p03">
+                <text src="poglavlje5.xhtml#ch05p03"/>
+                <audio src="audio.mp3" clipBegin="0:15:38.000" clipEnd="0:15:41.500"/>
+            </par>
+            <par id="ch05p04">
+                <text src="poglavlje5.xhtml#ch05p04"/>
+                <audio src="audio.mp3" clipBegin="0:15:41.500" clipEnd="0:15:44.000"/>
+            </par>
+            <par id="ch05p05">
+                <text src="poglavlje5.xhtml#ch05p05"/>
+                <audio src="audio.mp3" clipBegin="0:15:44.000" clipEnd="0:15:46.000"/>
+            </par>
+            <par id="ch05p06">
+                <text src="poglavlje5.xhtml#ch05p06"/>
+                <audio src="audio.mp3" clipBegin="0:15:46.000" clipEnd="0:15:52.500"/>
+            </par>
+            <par id="ch05p07">
+                <text src="poglavlje5.xhtml#ch05p07"/>
+                <audio src="audio.mp3" clipBegin="0:15:52.500" clipEnd="0:15:56.000"/>
+            </par>
+            <par id="ch05p08">
+                <text src="poglavlje5.xhtml#ch05p08"/>
+                <audio src="audio.mp3" clipBegin="0:15:56.0007" clipEnd="0:16:11.500"/>
+            </par>
+            <par id="ch05p09">
+                <text src="poglavlje5.xhtml#ch05p09"/>
+                <audio src="audio.mp3" clipBegin="0:16:11.500" clipEnd="0:16:15.500"/>
+            </par>
+            <par id="ch05p10">
+                <text src="poglavlje5.xhtml#ch05p10"/>
+                <audio src="audio.mp3" clipBegin="0:16:15.500" clipEnd="0:16:19.000"/>
+            </par>
+            <par id="ch05p11">
+                <text src="poglavlje5.xhtml#ch05p11"/>
+                <audio src="audio.mp3" clipBegin="0:16:19.000" clipEnd="0:16:21.000"/>
+            </par>
+            <par id="ch05p12">
+                <text src="poglavlje5.xhtml#ch05p12"/>
+                <audio src="audio.mp3" clipBegin="0:16:21.000" clipEnd="0:16:26.000"/>
+            </par>
+            <par id="ch05p13">
+                <text src="poglavlje5.xhtml#ch05p13"/>
+                <audio src="audio.mp3" clipBegin="0:16:26.000" clipEnd="0:16:32.000"/>
+            </par>
+            <par id="ch05p14">
+                <text src="poglavlje5.xhtml#ch05p14"/>
+                <audio src="audio.mp3" clipBegin="0:16:32.000" clipEnd="0:16:43.500"/>
+            </par>
+            <par id="ch05p15">
+                <text src="poglavlje5.xhtml#ch05p15"/>
+                <audio src="audio.mp3" clipBegin="0:16:43.500" clipEnd="0:16:47.500"/>
+            </par>
+            <par id="ch05p16">
+                <text src="poglavlje5.xhtml#ch05p16"/>
+                <audio src="audio.mp3" clipBegin="0:16:47.500" clipEnd="0:18:12.500"/>
+            </par>
+            <par id="ch05p17">
+                <text src="poglavlje5.xhtml#ch05p17"/>
+                <audio src="audio.mp3" clipBegin="0:18:12.500" clipEnd="0:18:41.500"/>
+            </par>
+            <par id="ch05p18">
+                <text src="poglavlje5.xhtml#ch05p18"/>
+                <audio src="audio.mp3" clipBegin="0:18:41.500" clipEnd="0:19:41.000"/>
+            </par>
+        </seq>
+
+
+<seq id="ch06" epub:textref="poglavlje6.xhtml" epub:type="bodymatter chapter">
+        <par id="ch06p01">
+            <text src="poglavlje6.xhtml#ch06p01"/>
+            <audio src="audio.mp3" clipBegin="0:19:41.000" clipEnd="0:19:57.500"/>
+        </par>
+        <par id="ch06p02">
+            <text src="poglavlje6.xhtml#ch06p02"/>
+            <audio src="audio.mp3" clipBegin="0:19:57.500" clipEnd="0:20:03.500"/>
+        </par>
+        <par id="ch06p03">
+            <text src="poglavlje6.xhtml#ch06p03"/>
+            <audio src="audio.mp3" clipBegin="0:20:03.500" clipEnd="0:20:06.500"/>
+        </par>
+        <par id="ch06p04">
+            <text src="poglavlje6.xhtml#ch06p04"/>
+            <audio src="audio.mp3" clipBegin="0:20:06.500" clipEnd="0:20:08.000"/>
+        </par>
+        <par id="ch06p05">
+            <text src="poglavlje6.xhtml#ch06p05"/>
+            <audio src="audio.mp3" clipBegin="0:20:08.000" clipEnd="0:20:11.000"/>
+        </par>
+        <par id="ch06p06">
+            <text src="poglavlje6.xhtml#ch06p06"/>
+            <audio src="audio.mp3" clipBegin="0:20:11.000" clipEnd="0:20:16.500"/>
+        </par>
+        <par id="ch06p07">
+            <text src="poglavlje6.xhtml#ch06p07"/>
+            <audio src="audio.mp3" clipBegin="0:20:16.500" clipEnd="0:20:19.000"/>
+        </par>
+        <par id="ch06p08">
+            <text src="poglavlje6.xhtml#ch06p08"/>
+            <audio src="audio.mp3" clipBegin="0:20:19.000" clipEnd="0:20:45.500"/>
+        </par>
+        <par id="ch06p09">
+            <text src="poglavlje6.xhtml#ch06p09"/>
+            <audio src="audio.mp3" clipBegin="0:20:45.500" clipEnd="0:20:50.500"/>
+        </par>
+        <par id="ch06p10">
+            <text src="poglavlje6.xhtml#ch06p10"/>
+            <audio src="audio.mp3" clipBegin="0:20:50.500" clipEnd="0:20:53.000"/>
+        </par>
+        <par id="ch06p11">
+            <text src="poglavlje6.xhtml#ch06p11"/>
+            <audio src="audio.mp3" clipBegin="0:20:53.000" clipEnd="0:20:58.500"/>
+        </par>
+        <par id="ch06p12">
+            <text src="poglavlje6.xhtml#ch06p12"/>
+            <audio src="audio.mp3" clipBegin="0:20:58.500" clipEnd="0:21:04.500"/>
+        </par>
+        <par id="ch06p13">
+            <text src="poglavlje6.xhtml#ch06p13"/>
+            <audio src="audio.mp3" clipBegin="0:21:04.500" clipEnd="0:21:08.000"/>
+        </par>
+     </seq>
+
+<seq id="ch07" epub:textref="poglavlje7.xhtml" epub:type="bodymatter chapter">
+      <par id="ch07p01">
+          <text src="poglavlje7.xhtml#ch07p01"/>
+          <audio src="audio.mp3" clipBegin="0:21:08.000" clipEnd="0:21:20.000"/>
+      </par>
+      <par id="ch07p02">
+          <text src="poglavlje7.xhtml#ch07p02"/>
+          <audio src="audio.mp3" clipBegin="0:21:20.000" clipEnd="0:21:24.000"/>
+      </par>
+      <par id="ch07p03">
+          <text src="poglavlje7.xhtml#ch07p03"/>
+          <audio src="audio.mp3" clipBegin="0:21:24.000" clipEnd="0:21:27.500"/>
+      </par>
+      <par id="ch07p04">
+          <text src="poglavlje7.xhtml#ch07p04"/>
+          <audio src="audio.mp3" clipBegin="0:21:27.500" clipEnd="0:21:29.500"/>
+      </par>
+      <par id="ch07p05">
+          <text src="poglavlje7.xhtml#ch07p05"/>
+          <audio src="audio.mp3" clipBegin="0:21:29.500" clipEnd="0:21:32.500"/>
+      </par>
+      <par id="ch07p06">
+          <text src="poglavlje7.xhtml#ch07p06"/>
+          <audio src="audio.mp3" clipBegin="0:21:32.500" clipEnd="0:21:34.500"/>
+      </par>
+      <par id="ch07p07">
+          <text src="poglavlje7.xhtml#ch07p07"/>
+          <audio src="audio.mp3" clipBegin="0:21:34.500" clipEnd="0:21:51.500"/>
+      </par>
+      <par id="ch07p08">
+          <text src="poglavlje7.xhtml#ch07p08"/>
+          <audio src="audio.mp3" clipBegin="0:21:51.500" clipEnd="0:21:53.500"/>
+      </par>
+      <par id="ch07p09">
+          <text src="poglavlje7.xhtml#ch07p09"/>
+          <audio src="audio.mp3" clipBegin="0:21:53.500" clipEnd="0:22:02.000"/>
+      </par>
+      <par id="ch07p10">
+          <text src="poglavlje7.xhtml#ch07p10"/>
+          <audio src="audio.mp3" clipBegin="0:22:02.000" clipEnd="0:22:07.000"/>
+      </par>
+      <par id="ch07p11">
+          <text src="poglavlje7.xhtml#ch07p11"/>
+          <audio src="audio.mp3" clipBegin="0:22:07.000" clipEnd="0:22:12.500"/>
+      </par>
+      <par id="ch07p12">
+          <text src="poglavlje7.xhtml#ch07p12"/>
+          <audio src="audio.mp3" clipBegin="0:22:12.500" clipEnd="0:22:23.000"/>
+      </par>
+      <par id="ch07p13">
+          <text src="poglavlje7.xhtml#ch07p13"/>
+          <audio src="audio.mp3" clipBegin="0:22:23.000" clipEnd="0:22:35.500"/>
+      </par>
+      <par id="ch07p14">
+          <text src="poglavlje7.xhtml#ch07p14"/>
+          <audio src="audio.mp3" clipBegin="0:22:35.500" clipEnd="0:22:38.800"/>
+      </par>
+      <par id="ch07p15">
+          <text src="poglavlje7.xhtml#ch07p15"/>
+          <audio src="audio.mp3" clipBegin="0:22:38.800" clipEnd="0:22:44.000"/>
+      </par>
+      <par id="ch07p16">
+          <text src="poglavlje7.xhtml#ch07p16"/>
+          <audio src="audio.mp3" clipBegin="0:22:44.000" clipEnd="0:22:46.000"/>
+      </par>
+      <par id="ch07p17">
+          <text src="poglavlje7.xhtml#ch07p17"/>
+          <audio src="audio.mp3" clipBegin="0:22:46.000" clipEnd="0:22:48.000"/>
+      </par>
+      <par id="ch07p18">
+          <text src="poglavlje7.xhtml#ch07p18"/>
+          <audio src="audio.mp3" clipBegin="0:22:48.000" clipEnd="0:22:57.000"/>
+      </par>
+      <par id="ch07p19">
+          <text src="poglavlje7.xhtml#ch07p19"/>
+          <audio src="audio.mp3" clipBegin="0:22:57.000" clipEnd="0:22:59.500"/>
+      </par>
+      <par id="ch07p20">
+          <text src="poglavlje7.xhtml#ch07p20"/>
+          <audio src="audio.mp3" clipBegin="0:22:59.500" clipEnd="0:23:04.500"/>
+      </par>
+      <par id="ch07p21">
+          <text src="poglavlje7.xhtml#ch07p21"/>
+          <audio src="audio.mp3" clipBegin="0:23:04.500" clipEnd="0:23:08.500"/>
+      </par>
+      <par id="ch07p22">
+          <text src="poglavlje7.xhtml#ch07p22"/>
+          <audio src="audio.mp3" clipBegin="0:23:08.500" clipEnd="0:23:15.000"/>
+      </par>
+      <par id="ch07p23">
+          <text src="poglavlje7.xhtml#ch07p23"/>
+          <audio src="audio.mp3" clipBegin="0:23:15.000" clipEnd="0:23:42.500"/>
+      </par>
+      <par id="ch07p24">
+          <text src="poglavlje7.xhtml#ch07p24"/>
+          <audio src="audio.mp3" clipBegin="0:23:42.500" clipEnd="0:23:43.500"/>
+      </par>
+      <par id="ch07p25">
+          <text src="poglavlje7.xhtml#ch07p25"/>
+          <audio src="audio.mp3" clipBegin="0:23:43.500" clipEnd="0:23:45.000"/>
+      </par>
+      <par id="ch07p26">
+          <text src="poglavlje7.xhtml#ch07p26"/>
+          <audio src="audio.mp3" clipBegin="0:23:45.000" clipEnd="0:23:48.500"/>
+      </par>
+      <par id="ch07p27">
+          <text src="poglavlje7.xhtml#ch07p27"/>
+          <audio src="audio.mp3" clipBegin="0:23:48.500" clipEnd="0:24:32.000"/>
+      </par>
+      <par id="ch07p28">
+          <text src="poglavlje7.xhtml#ch07p28"/>
+          <audio src="audio.mp3" clipBegin="0:24:32.000" clipEnd="0:24:34.000"/>
+      </par>
+      <par id="ch07p29">
+          <text src="poglavlje7.xhtml#ch07p29"/>
+          <audio src="audio.mp3" clipBegin="0:24:34.000" clipEnd="0:25:03.000"/>
+      </par>
+      <par id="ch07p30">
+          <text src="poglavlje7.xhtml#ch07p30"/>
+          <audio src="audio.mp3" clipBegin="0:25:03.000" clipEnd="0:25:54.500"/>
+      </par>
+            
+     </seq>
+
+
+<seq id="ch08" epub:textref="poglavlje8.xhtml" epub:type="bodymatter chapter">
+            <par id="ch08p01">
+                <text src="poglavlje8.xhtml#ch08p01"/>
+                <audio src="audio.mp3" clipBegin="0:25:54.500" clipEnd="0:26:59.300"/>
+            </par>
+            <par id="ch08p02">
+                <text src="poglavlje8.xhtml#ch08p02"/>
+                <audio src="audio.mp3" clipBegin="0:26:59.300" clipEnd="0:27:15.000"/>
+            </par>
+            <par id="ch08p03">
+                <text src="poglavlje8.xhtml#ch08p03"/>
+                <audio src="audio.mp3" clipBegin="0:27:15.000" clipEnd="0:27:20.500"/>
+            </par>
+            <par id="ch08p04">
+                <text src="poglavlje8.xhtml#ch08p04"/>
+                <audio src="audio.mp3" clipBegin="0:27:20.500" clipEnd="0:27:26.500"/>
+            </par>
+            <par id="ch08p05">
+                <text src="poglavlje8.xhtml#ch08p05"/>
+                <audio src="audio.mp3" clipBegin="0:27:26.500" clipEnd="0:27:30.500"/>
+            </par>
+            <par id="ch08p06">
+                <text src="poglavlje8.xhtml#ch08p06"/>
+                <audio src="audio.mp3" clipBegin="0:27:30.500" clipEnd="0:27:33.000"/>
+            </par>
+            <par id="ch08p07">
+                <text src="poglavlje8.xhtml#ch08p07"/>
+                <audio src="audio.mp3" clipBegin="0:27:33.000" clipEnd="0:27:41.500"/>
+            </par>
+            <par id="ch08p08">
+                <text src="poglavlje8.xhtml#ch08p08"/>
+                <audio src="audio.mp3" clipBegin="0:27:41.500" clipEnd="0:27:48.000"/>
+            </par>
+            <par id="ch08p09">
+                <text src="poglavlje8.xhtml#ch08p09"/>
+                <audio src="audio.mp3" clipBegin="0:27:48.000" clipEnd="0:27:56.500"/>
+            </par>
+            <par id="ch08p10">
+                <text src="poglavlje8.xhtml#ch08p10"/>
+                <audio src="audio.mp3" clipBegin="0:27:56.500" clipEnd="0:28:03.000"/>
+            </par>
+            <par id="ch08p11">
+                <text src="poglavlje8.xhtml#ch08p11"/>
+                <audio src="audio.mp3" clipBegin="0:28:03.000" clipEnd="0:28:14.000"/>
+            </par>
+            <par id="ch08p12">
+                <text src="poglavlje8.xhtml#ch08p12"/>
+                <audio src="audio.mp3" clipBegin="0:28:14.000" clipEnd="0:28:19.000"/>
+            </par>
+            <par id="ch08p13">
+                <text src="poglavlje8.xhtml#ch08p13"/>
+                <audio src="audio.mp3" clipBegin="0:28:19.000" clipEnd="0:28:28.000"/>
+            </par>
+            <par id="ch08p14">
+                <text src="poglavlje8.xhtml#ch08p14"/>
+                <audio src="audio.mp3" clipBegin="0:28:28.000" clipEnd="0:28:32.000"/>
+            </par>
+            <par id="ch08p15">
+                <text src="poglavlje8.xhtml#ch08p15"/>
+                <audio src="audio.mp3" clipBegin="0:28:32.000" clipEnd="0:28:34.000"/>
+            </par>
+            <par id="ch08p16">
+                <text src="poglavlje8.xhtml#ch08p16"/>
+                <audio src="audio.mp3" clipBegin="0:28:34.000" clipEnd="0:28:42.500"/>
+            </par>
+            <par id="ch08p17">
+                <text src="poglavlje8.xhtml#ch08p17"/>
+                <audio src="audio.mp3" clipBegin="0:28:42.500" clipEnd="0:28:50.500"/>
+            </par>
+            <par id="ch08p18">
+                <text src="poglavlje8.xhtml#ch08p18"/>
+                <audio src="audio.mp3" clipBegin="0:28:50.500" clipEnd="0:28:59.500"/>
+            </par>
+            <par id="ch08p19">
+                <text src="poglavlje8.xhtml#ch08p19"/>
+                <audio src="audio.mp3" clipBegin="0:28:59.500" clipEnd="0:29:18.500"/>
+            </par>
+            <par id="ch08p20">
+                <text src="poglavlje8.xhtml#ch08p20"/>
+                <audio src="audio.mp3" clipBegin="0:29:18.500" clipEnd="0:29:21.000"/>
+            </par>
+            <par id="ch08p21">
+                <text src="poglavlje8.xhtml#ch08p21"/>
+                <audio src="audio.mp3" clipBegin="0:29:21.000" clipEnd="0:29:26.300"/>
+            </par>
+            <par id="ch08p22">
+                <text src="poglavlje8.xhtml#ch08p22"/>
+                <audio src="audio.mp3" clipBegin="0:29:26.300" clipEnd="0:29:32.500"/>
+            </par>
+            <par id="ch08p23">
+                <text src="poglavlje8.xhtml#ch08p23"/>
+                <audio src="audio.mp3" clipBegin="0:29:32.500" clipEnd="0:29:45.500"/>
+            </par>
+            <par id="ch08p24">
+                <text src="poglavlje8.xhtml#ch08p24"/>
+                <audio src="audio.mp3" clipBegin="0:29:45.500" clipEnd="0:30:12.000"/>
+            </par>
+            <par id="ch08p25">
+                <text src="poglavlje8.xhtml#ch08p25"/>
+                <audio src="audio.mp3" clipBegin="0:30:12.000" clipEnd="0:30:14.200"/>
+            </par>
+            <par id="ch08p26">
+                <text src="poglavlje8.xhtml#ch08p26"/>
+                <audio src="audio.mp3" clipBegin="0:30:14.200" clipEnd="0:30:40.500"/>
+            </par>
+
+        </seq>
+
+<seq id="ch09" epub:textref="poglavlje9.xhtml" epub:type="bodymatter chapter">
+            <par id="ch09p01">
+                <text src="poglavlje9.xhtml#ch09p01"/>
+                <audio src="audio.mp3" clipBegin="0:30:40.500" clipEnd="0:31:26.000"/>
+            </par>
+            <par id="ch09p02">
+                <text src="poglavlje9.xhtml#ch09p02"/>
+                <audio src="audio.mp3" clipBegin="0:31:26.000" clipEnd="0:31:51.000"/>
+            </par>
+            <par id="ch09p03">
+                <text src="poglavlje9.xhtml#ch09p03"/>
+                <audio src="audio.mp3" clipBegin="0:31:51.000" clipEnd="0:31:55.000"/>
+            </par>
+            <par id="ch09p04">
+                <text src="poglavlje9.xhtml#ch09p04"/>
+                <audio src="audio.mp3" clipBegin="0:31:55.000" clipEnd="0:31:58.000"/>
+            </par>
+            <par id="ch09p05">
+                <text src="poglavlje9.xhtml#ch09p05"/>
+                <audio src="audio.mp3" clipBegin="0:31:58.000" clipEnd="0:31:59.500"/>
+            </par>
+            <par id="ch09p06">
+                <text src="poglavlje9.xhtml#ch09p06"/>
+                <audio src="audio.mp3" clipBegin="0:31:59.500" clipEnd="0:32:04.000"/>
+            </par>
+            <par id="ch09p07">
+                <text src="poglavlje9.xhtml#ch09p07"/>
+                <audio src="audio.mp3" clipBegin="0:32:04.000" clipEnd="0:32:13.000"/>
+            </par>
+            <par id="ch09p08">
+                <text src="poglavlje9.xhtml#ch09p08"/>
+                <audio src="audio.mp3" clipBegin="0:32:13.000" clipEnd="0:32:24.000"/>
+            </par>
+            <par id="ch09p09">
+                <text src="poglavlje9.xhtml#ch09p09"/>
+                <audio src="audio.mp3" clipBegin="0:32:24.000" clipEnd="0:32:45.500"/>
+            </par>
+            <par id="ch09p10">
+                <text src="poglavlje9.xhtml#ch09p10"/>
+                <audio src="audio.mp3" clipBegin="0:32:45.500" clipEnd="0:32:48.000"/>
+            </par>
+            <par id="ch09p11">
+                <text src="poglavlje9.xhtml#ch09p11"/>
+                <audio src="audio.mp3" clipBegin="0:32:48.000" clipEnd="0:32:55.500"/>
+            </par>
+            <par id="ch09p12">
+                <text src="poglavlje9.xhtml#ch09p12"/>
+                <audio src="audio.mp3" clipBegin="0:32:55.500" clipEnd="0:32:58.000"/>
+            </par>
+            <par id="ch09p13">
+                <text src="poglavlje9.xhtml#ch09p13"/>
+                <audio src="audio.mp3" clipBegin="0:32:58.000" clipEnd="0:33:17.500"/>
+            </par>
+            <par id="ch09p14">
+                <text src="poglavlje9.xhtml#ch09p14"/>
+                <audio src="audio.mp3" clipBegin="0:33:17.500" clipEnd="0:33:22.500"/>
+            </par>
+            <par id="ch09p15">
+                <text src="poglavlje9.xhtml#ch09p15"/>
+                <audio src="audio.mp3" clipBegin="0:33:22.500" clipEnd="0:33:40.000"/>
+            </par>
+            <par id="ch09p16">
+                <text src="poglavlje9.xhtml#ch09p16"/>
+                <audio src="audio.mp3" clipBegin="0:33:40.000" clipEnd="0:33:49.500"/>
+            </par>
+        </seq>
+
+
+<seq id="ch10" epub:textref="poglavlje10.xhtml" epub:type="bodymatter chapter">
+      <par id="ch10p01"><text src="poglavlje10.xhtml#ch10p01"/><audio clipBegin="0:33:49.500" clipEnd="0:34:07.000" src="audio.mp3"/></par>
+      <par id="ch10p02"><text src="poglavlje10.xhtml#ch10p02"/><audio clipBegin="0:34:07.000" clipEnd="0:34:19.500" src="audio.mp3"/></par>
+      <par id="ch10p03"><text src="poglavlje10.xhtml#ch10p03"/><audio clipBegin="0:34:19.500" clipEnd="0:34:25.500" src="audio.mp3"/></par>
+      <par id="ch10p04"><text src="poglavlje10.xhtml#ch10p04"/><audio clipBegin="0:34:25.500" clipEnd="0:34:28.000" src="audio.mp3"/></par>
+      <par id="ch10p05"><text src="poglavlje10.xhtml#ch10p05"/><audio clipBegin="0:34:28.000" clipEnd="0:34:32.500" src="audio.mp3"/></par>
+      <par id="ch10p06"><text src="poglavlje10.xhtml#ch10p06"/><audio clipBegin="0:34:32.500" clipEnd="0:34:40.500" src="audio.mp3"/></par>
+      <par id="ch10p07"><text src="poglavlje10.xhtml#ch10p07"/><audio clipBegin="0:34:40.500" clipEnd="0:34:49.000" src="audio.mp3"/></par>
+      <par id="ch10p08"><text src="poglavlje10.xhtml#ch10p08"/><audio clipBegin="0:34:49.000" clipEnd="0:35:04.500" src="audio.mp3"/></par>
+      <par id="ch10p09"><text src="poglavlje10.xhtml#ch10p09"/><audio clipBegin="0:35:04.500" clipEnd="0:35:13.000" src="audio.mp3"/></par>
+      <par id="ch10p10"><text src="poglavlje10.xhtml#ch10p10"/><audio clipBegin="0:35:13.000" clipEnd="0:35:21.000" src="audio.mp3"/></par>
+      <par id="ch10p11"><text src="poglavlje10.xhtml#ch10p11"/><audio clipBegin="0:35:21.000" clipEnd="0:35:35.000" src="audio.mp3"/></par>
+      <par id="ch10p12"><text src="poglavlje10.xhtml#ch10p12"/><audio clipBegin="0:35:35.000" clipEnd="0:35:41.000" src="audio.mp3"/></par>
+      <par id="ch10p13"><text src="poglavlje10.xhtml#ch10p13"/><audio clipBegin="0:35:41.000" clipEnd="0:35:48.000" src="audio.mp3"/></par>
+      <par id="ch10p14"><text src="poglavlje10.xhtml#ch10p14"/><audio clipBegin="0:35:48.000" clipEnd="0:35:50.500" src="audio.mp3"/></par>
+      <par id="ch10p15"><text src="poglavlje10.xhtml#ch10p15"/><audio clipBegin="0:35:50.500" clipEnd="0:36:04.500" src="audio.mp3"/></par>
+      <par id="ch10p16"><text src="poglavlje10.xhtml#ch10p16"/><audio clipBegin="0:36:04.500" clipEnd="0:36:20.000" src="audio.mp3"/></par>
+      <par id="ch10p17"><text src="poglavlje10.xhtml#ch10p17"/><audio clipBegin="0:36:20.000" clipEnd="0:36:23.800" src="audio.mp3"/></par>
+      <par id="ch10p18"><text src="poglavlje10.xhtml#ch10p18"/><audio clipBegin="0:36:23.800" clipEnd="0:36:30.500" src="audio.mp3"/></par>
+      <par id="ch10p19"><text src="poglavlje10.xhtml#ch10p19"/><audio clipBegin="0:36:30.500" clipEnd="0:36:39.000" src="audio.mp3"/></par>
+      <par id="ch10p20"><text src="poglavlje10.xhtml#ch10p20"/><audio clipBegin="0:36:39.000" clipEnd="0:36:45.000" src="audio.mp3"/></par>
+      <par id="ch10p21"><text src="poglavlje10.xhtml#ch10p21"/><audio clipBegin="0:36:45.000" clipEnd="0:36:48.500" src="audio.mp3"/></par>
+      <par id="ch10p22"><text src="poglavlje10.xhtml#ch10p22"/><audio clipBegin="0:36:48.500" clipEnd="0:36:52.000" src="audio.mp3"/></par>
+      <par id="ch10p23"><text src="poglavlje10.xhtml#ch10p23"/><audio clipBegin="0:36:52.000" clipEnd="0:36:56.500" src="audio.mp3"/></par>
+      <par id="ch10p24"><text src="poglavlje10.xhtml#ch10p24"/><audio clipBegin="0:36:56.500" clipEnd="0:36:58.500" src="audio.mp3"/></par>
+      <par id="ch10p25"><text src="poglavlje10.xhtml#ch10p25"/><audio clipBegin="0:36:58.500" clipEnd="0:37:03.500" src="audio.mp3"/></par>
+      <par id="ch10p26"><text src="poglavlje10.xhtml#ch10p26"/><audio clipBegin="0:37:03.500" clipEnd="0:37:09.000" src="audio.mp3"/></par>
+      <par id="ch10p27"><text src="poglavlje10.xhtml#ch10p27"/><audio clipBegin="0:37:09.000" clipEnd="0:37:11.500" src="audio.mp3"/></par>
+      <par id="ch10p28"><text src="poglavlje10.xhtml#ch10p28"/><audio clipBegin="0:37:11.500" clipEnd="0:37:19.000" src="audio.mp3"/></par>
+      <par id="ch10p29"><text src="poglavlje10.xhtml#ch10p29"/><audio clipBegin="0:37:19.000" clipEnd="0:37:47.500" src="audio.mp3"/></par>
+      <par id="ch10p30"><text src="poglavlje10.xhtml#ch10p30"/><audio clipBegin="0:37:47.500" clipEnd="0:37:55.000" src="audio.mp3"/></par>
+      <par id="ch10p31"><text src="poglavlje10.xhtml#ch10p31"/><audio clipBegin="0:37:55.000" clipEnd="0:38:10.000" src="audio.mp3"/></par>
+      <par id="ch10p32"><text src="poglavlje10.xhtml#ch10p32"/><audio clipBegin="0:38:10.000" clipEnd="0:38:14.000" src="audio.mp3"/></par>
+      <par id="ch10p33"><text src="poglavlje10.xhtml#ch10p33"/><audio clipBegin="0:38:14.000" clipEnd="0:38:36.000" src="audio.mp3"/></par>
+      <par id="ch10p34"><text src="poglavlje10.xhtml#ch10p34"/><audio clipBegin="0:38:36.000" clipEnd="0:38:45.000" src="audio.mp3"/></par>
+      <par id="ch10p35"><text src="poglavlje10.xhtml#ch10p35"/><audio clipBegin="0:38:45.000" clipEnd="0:38:55.000" src="audio.mp3"/></par>
+      <par id="ch10p36"><text src="poglavlje10.xhtml#ch10p36"/><audio clipBegin="0:38:55.000" clipEnd="0:38:59.000" src="audio.mp3"/></par>
+      <par id="ch10p37"><text src="poglavlje10.xhtml#ch10p37"/><audio clipBegin="0:38:59.000" clipEnd="0:39:15.000" src="audio.mp3"/></par>
+      <par id="ch10p38"><text src="poglavlje10.xhtml#ch10p38"/><audio clipBegin="0:39:15.000" clipEnd="0:39:24.500" src="audio.mp3"/></par>
+      <par id="ch10p39"><text src="poglavlje10.xhtml#ch10p39"/><audio clipBegin="0:39:24.500" clipEnd="0:39:30.000" src="audio.mp3"/></par>
+      <par id="ch10p40"><text src="poglavlje10.xhtml#ch10p40"/><audio clipBegin="0:39:30.000" clipEnd="0:39:40.500" src="audio.mp3"/></par>
+      <par id="ch10p41"><text src="poglavlje10.xhtml#ch10p41"/><audio clipBegin="0:39:40.500" clipEnd="0:39:42.500" src="audio.mp3"/></par>
+      <par id="ch10p42"><text src="poglavlje10.xhtml#ch10p42"/><audio clipBegin="0:39:42.500" clipEnd="0:39:45.500" src="audio.mp3"/></par>
+      <par id="ch10p43"><text src="poglavlje10.xhtml#ch10p43"/><audio clipBegin="0:39:45.500" clipEnd="0:39:47.500" src="audio.mp3"/></par>
+      <par id="ch10p44"><text src="poglavlje10.xhtml#ch10p44"/><audio clipBegin="0:39:47.500" clipEnd="0:39:59.000" src="audio.mp3"/></par>
+      <par id="ch10p45"><text src="poglavlje10.xhtml#ch10p45"/><audio clipBegin="0:39:59.000" clipEnd="0:40:08.500" src="audio.mp3"/></par>
+      <par id="ch10p46"><text src="poglavlje10.xhtml#ch10p46"/><audio clipBegin="0:40:08.500" clipEnd="0:40:25.000" src="audio.mp3"/></par>
+      <par id="ch10p47"><text src="poglavlje10.xhtml#ch10p47"/><audio clipBegin="0:40:25.000" clipEnd="0:40:31.000" src="audio.mp3"/></par>
+      <par id="ch10p48"><text src="poglavlje10.xhtml#ch10p48"/><audio clipBegin="0:40:31.000" clipEnd="0:40:54.500" src="audio.mp3"/></par>
+      <par id="ch10p49"><text src="poglavlje10.xhtml#ch10p49"/><audio clipBegin="0:40:54.500" clipEnd="0:41:02.500" src="audio.mp3"/></par>
+      <par id="ch10p50"><text src="poglavlje10.xhtml#ch10p50"/><audio clipBegin="0:41:02.500" clipEnd="0:41:05.000" src="audio.mp3"/></par>
+      <par id="ch10p51"><text src="poglavlje10.xhtml#ch10p51"/><audio clipBegin="0:41:05.000" clipEnd="0:41:11.000" src="audio.mp3"/></par>
+      <par id="ch10p52"><text src="poglavlje10.xhtml#ch10p52"/><audio clipBegin="0:41:11.000" clipEnd="0:41:25.500" src="audio.mp3"/></par>
+      <par id="ch10p53"><text src="poglavlje10.xhtml#ch10p53"/><audio clipBegin="0:41:25.500" clipEnd="0:41:33.700" src="audio.mp3"/></par>
+      <par id="ch10p54"><text src="poglavlje10.xhtml#ch10p54"/><audio clipBegin="0:41:33.700" clipEnd="0:41:40.000" src="audio.mp3"/></par>
+      <par id="ch10p55"><text src="poglavlje10.xhtml#ch10p55"/><audio clipBegin="0:41:40.000" clipEnd="0:41:44.000" src="audio.mp3"/></par>
+      <par id="ch10p56"><text src="poglavlje10.xhtml#ch10p56"/><audio clipBegin="0:41:44.000" clipEnd="0:41:51.500" src="audio.mp3"/></par>
+    </seq>
+
+
+<seq id="ch11" epub:textref="poglavlje11.xhtml" epub:type="bodymatter chapter">
+      <par id="ch11p01"><text src="poglavlje11.xhtml#ch11p01"/><audio src="audio.mp3" clipBegin="0:41:51.500" clipEnd="0:41:55.000"/></par>
+      <par id="ch11p02"><text src="poglavlje11.xhtml#ch11p02"/><audio src="audio.mp3" clipBegin="0:41:55.000" clipEnd="0:42:03.000"/></par>
+      <par id="ch11p03"><text src="poglavlje11.xhtml#ch11p03"/><audio src="audio.mp3" clipBegin="0:42:03.000" clipEnd="0:42:07.500"/></par>
+      <par id="ch11p04"><text src="poglavlje11.xhtml#ch11p04"/><audio src="audio.mp3" clipBegin="0:42:07.500" clipEnd="0:42:12.000"/></par>
+      <par id="ch11p05"><text src="poglavlje11.xhtml#ch11p05"/><audio src="audio.mp3" clipBegin="0:42:12.000" clipEnd="0:42:22.000"/></par>
+      <par id="ch11p06"><text src="poglavlje11.xhtml#ch11p06"/><audio src="audio.mp3" clipBegin="0:42:22.000" clipEnd="0:42:26.500"/></par>
+      <par id="ch11p07"><text src="poglavlje11.xhtml#ch11p07"/><audio src="audio.mp3" clipBegin="0:42:26.500" clipEnd="0:42:31.100"/></par>
+      <par id="ch11p08"><text src="poglavlje11.xhtml#ch11p08"/><audio src="audio.mp3" clipBegin="0:42:31.100" clipEnd="0:42:38.500"/></par>
+      <par id="ch11p09"><text src="poglavlje11.xhtml#ch11p09"/><audio src="audio.mp3" clipBegin="0:42:38.500" clipEnd="0:42:53.000"/></par>
+      <par id="ch11p10"><text src="poglavlje11.xhtml#ch11p10"/><audio src="audio.mp3" clipBegin="0:42:53.000" clipEnd="0:42:58.000"/></par>
+      <par id="ch11p11"><text src="poglavlje11.xhtml#ch11p11"/><audio src="audio.mp3" clipBegin="0:42:58.000" clipEnd="0:43:04.000"/></par>
+      <par id="ch11p12"><text src="poglavlje11.xhtml#ch11p12"/><audio src="audio.mp3" clipBegin="0:43:04.000" clipEnd="0:43:10.000"/></par>
+      <par id="ch11p13"><text src="poglavlje11.xhtml#ch11p13"/><audio src="audio.mp3" clipBegin="0:43:10.000" clipEnd="0:43:16.500"/></par>
+      <par id="ch11p14"><text src="poglavlje11.xhtml#ch11p14"/><audio src="audio.mp3" clipBegin="0:43:16.500" clipEnd="0:43:18.500"/></par>
+      <par id="ch11p15"><text src="poglavlje11.xhtml#ch11p15"/><audio src="audio.mp3" clipBegin="0:43:18.500" clipEnd="0:43:29.000"/></par>
+      <par id="ch11p16"><text src="poglavlje11.xhtml#ch11p16"/><audio src="audio.mp3" clipBegin="0:43:29.000" clipEnd="0:43:33.000"/></par>
+      <par id="ch11p17"><text src="poglavlje11.xhtml#ch11p17"/><audio src="audio.mp3" clipBegin="0:43:33.000" clipEnd="0:43:37.000"/></par>
+      <par id="ch11p18"><text src="poglavlje11.xhtml#ch11p18"/><audio src="audio.mp3" clipBegin="0:43:37.000" clipEnd="0:43:46.000"/></par>
+      <par id="ch11p19"><text src="poglavlje11.xhtml#ch11p19"/><audio src="audio.mp3" clipBegin="0:43:46.000" clipEnd="0:43:49.000"/></par>
+      <par id="ch11p20"><text src="poglavlje11.xhtml#ch11p20"/><audio src="audio.mp3" clipBegin="0:42:49.000" clipEnd="0:43:55.500"/></par>
+    </seq>
+
+
+<seq id="ch12" epub:textref="poglavlje12.xhtml" epub:type="bodymatter chapter">
+
+    <par id="ch12p01">
+        <text src="poglavlje12.xhtml#ch12p01"/>
+        <audio clipBegin="0:43:55.500" clipEnd="0:44:05.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p02">
+        <text src="poglavlje12.xhtml#ch12p02"/>
+        <audio clipBegin="0:44:05.000" clipEnd="0:44:16.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p03">
+        <text src="poglavlje12.xhtml#ch12p03"/>
+        <audio clipBegin="0:44:16.000" clipEnd="0:44:21.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p04">
+        <text src="poglavlje12.xhtml#ch12p04"/>
+        <audio clipBegin="0:44:21.000" clipEnd="0:44:25.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p05">
+        <text src="poglavlje12.xhtml#ch12p05"/>
+        <audio clipBegin="0:44:25.000" clipEnd="0:44:29.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p06">
+        <text src="poglavlje12.xhtml#ch12p06"/>
+        <audio clipBegin="0:44:29.000" clipEnd="0:44:35.500" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p07">
+        <text src="poglavlje12.xhtml#ch12p07"/>
+        <audio clipBegin="0:44:35.500" clipEnd="0:44:43.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p08">
+        <text src="poglavlje12.xhtml#ch12p08"/>
+        <audio clipBegin="0:44:43.000" clipEnd="0:44:49.500" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p09">
+        <text src="poglavlje12.xhtml#ch12p09"/>
+        <audio clipBegin="0:44:49.500" clipEnd="0:44:57.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p10">
+        <text src="poglavlje12.xhtml#ch12p10"/>
+        <audio clipBegin="0:44:57.000" clipEnd="0:45:01.000" src="audio.mp3"/>
+    </par>
+
+    <par id="ch12p11">
+        <text src="poglavlje12.xhtml#ch12p11"/>
+        <audio clipBegin="0:45:01.000" clipEnd="0:45:08.500" src="audio.mp3"/>
+    </par>
+
+  </seq>
+
+
+<seq id="ch13" epub:textref="poglavlje13.xhtml" epub:type="bodymatter chapter">
+      <par>
+        <text src="poglavlje13.xhtml#ch13p01"/>
+        <audio src="audio.mp3" clipBegin="0:45:08.500" clipEnd="0:45:20.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p02"/>
+        <audio src="audio.mp3" clipBegin="0:45:20.000" clipEnd="0:45:26.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p03"/>
+        <audio src="audio.mp3" clipBegin="0:45:26.500" clipEnd="0:45:50.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p04"/>
+        <audio src="audio.mp3" clipBegin="0:45:50.000" clipEnd="0:45:52.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p05"/>
+        <audio src="audio.mp3" clipBegin="0:45:52.500" clipEnd="0:46:03.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p06"/>
+        <audio src="audio.mp3" clipBegin="0:46:03.500" clipEnd="0:46:13.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p07"/>
+        <audio src="audio.mp3" clipBegin="0:46:13.000" clipEnd="0:46:15.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p08"/>
+        <audio src="audio.mp3" clipBegin="0:46:15.500" clipEnd="0:46:44.700"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p09"/>
+        <audio src="audio.mp3" clipBegin="0:46:44.700" clipEnd="0:46:46.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p10"/>
+        <audio src="audio.mp3" clipBegin="0:46:46.500" clipEnd="0:46:50.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p11"/>
+        <audio src="audio.mp3" clipBegin="0:46:50.500" clipEnd="0:46:54.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p12"/>
+        <audio src="audio.mp3" clipBegin="0:46:54.000" clipEnd="0:46:55.300"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p13"/>
+        <audio src="audio.mp3" clipBegin="0:46:55.300" clipEnd="0:46:57.700"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p14"/>
+        <audio src="audio.mp3" clipBegin="0:46:57.700" clipEnd="0:46:58.700"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p15"/>
+        <audio src="audio.mp3" clipBegin="0:46:58.700" clipEnd="0:47:08.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p16"/>
+        <audio src="audio.mp3" clipBegin="0:47:08.500" clipEnd="0:47:11.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p17"/>
+        <audio src="audio.mp3" clipBegin="0:47:11.000" clipEnd="0:47:14.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p18"/>
+        <audio src="audio.mp3" clipBegin="0:47:14.000" clipEnd="0:47:17.300"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p19"/>
+        <audio src="audio.mp3" clipBegin="0:47:17.300" clipEnd="0:47:25.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p20"/>
+        <audio src="audio.mp3" clipBegin="0:47:25.500" clipEnd="0:47:27.300"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p21"/>
+        <audio src="audio.mp3" clipBegin="0:47:27.300" clipEnd="0:47:28.400"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p22"/>
+        <audio src="audio.mp3" clipBegin="0:47:28.400" clipEnd="0:47:29.100"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p23"/>
+        <audio src="audio.mp3" clipBegin="0:47:29.100" clipEnd="0:47:30.700"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p24"/>
+        <audio src="audio.mp3" clipBegin="0:47:30.700" clipEnd="0:47:32.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p25"/>
+        <audio src="audio.mp3" clipBegin="0:47:32.000" clipEnd="0:47:33.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p26"/>
+        <audio src="audio.mp3" clipBegin="0:47:33.500" clipEnd="0:47:35.300"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p27"/>
+        <audio src="audio.mp3" clipBegin="0:47:35.300" clipEnd="0:47:40.300"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p28"/>
+        <audio src="audio.mp3" clipBegin="0:47:40.300" clipEnd="0:47:42.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p29"/>
+        <audio src="audio.mp3" clipBegin="0:47:42.000" clipEnd="0:47:43.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p30"/>
+        <audio src="audio.mp3" clipBegin="0:47:43.500" clipEnd="0:47:46.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p31"/>
+        <audio src="audio.mp3" clipBegin="0:47:46.000" clipEnd="0:47:50.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p32"/>
+        <audio src="audio.mp3" clipBegin="0:47:50.000" clipEnd="0:47:57.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p33"/>
+        <audio src="audio.mp3" clipBegin="0:47:57.000" clipEnd="0:47:59.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p34"/>
+        <audio src="audio.mp3" clipBegin="0:47:59.500" clipEnd="0:48:03.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p35"/>
+        <audio src="audio.mp3" clipBegin="0:48:03.000" clipEnd="0:48:07.200"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p36"/>
+        <audio src="audio.mp3" clipBegin="0:48:07.200" clipEnd="0:48:10.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p37"/>
+        <audio src="audio.mp3" clipBegin="0:48:10.000" clipEnd="0:48:13.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p38"/>
+        <audio src="audio.mp3" clipBegin="0:48:13.500" clipEnd="0:48:15.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p39"/>
+        <audio src="audio.mp3" clipBegin="0:48:15.000" clipEnd="0:48:36.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p40"/>
+        <audio src="audio.mp3" clipBegin="0:48:36.000" clipEnd="0:48:42.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p41"/>
+        <audio src="audio.mp3" clipBegin="0:48:42.000" clipEnd="0:48:51.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p42"/>
+        <audio src="audio.mp3" clipBegin="0:48:51.500" clipEnd="0:48:56.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p43"/>
+        <audio src="audio.mp3" clipBegin="0:48:56.000" clipEnd="0:49:08.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p44"/>
+        <audio src="audio.mp3" clipBegin="0:49:08.000" clipEnd="0:49:12.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p45"/>
+        <audio src="audio.mp3" clipBegin="0:49:12.000" clipEnd="0:49:14.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p46"/>
+        <audio src="audio.mp3" clipBegin="0:49:14.000" clipEnd="0:49:21.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p47"/>
+        <audio src="audio.mp3" clipBegin="0:49:21.000" clipEnd="0:49:22.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p48"/>
+        <audio src="audio.mp3" clipBegin="0:49:22.500" clipEnd="0:49:24.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p49"/>
+        <audio src="audio.mp3" clipBegin="0:49:24.500" clipEnd="0:49:31.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p50"/>
+        <audio src="audio.mp3" clipBegin="0:49:31.000" clipEnd="0:49:37.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p51"/>
+        <audio src="audio.mp3" clipBegin="0:49:37.000" clipEnd="0:49:58.000"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p52"/>
+        <audio src="audio.mp3" clipBegin="0:49:58.000" clipEnd="0:50:05.500"/>
+      </par>
+      <par>
+        <text src="poglavlje13.xhtml#ch13p53"/>
+        <audio src="audio.mp3" clipBegin="0:50:05.500" clipEnd="0:50:12.000"/>
+      </par>
+    </seq>
+
+<seq id="ch14" epub:textref="poglavlje14.xhtml" epub:type="bodymatter chapter">
+      <par id="ch14p01">
+        <text src="poglavlje14.xhtml#ch14p01"/>
+        <audio src="audio.mp3" clipBegin="0:50:12.000" clipEnd="0:50:40.000"/>
+      </par>
+      <par id="ch14p02">
+        <text src="poglavlje14.xhtml#ch14p02"/>
+        <audio src="audio.mp3" clipBegin="0:50:40.000" clipEnd="0:51:09.000"/>
+      </par>
+      <par id="ch14p03">
+        <text src="poglavlje14.xhtml#ch14p03"/>
+        <audio src="audio.mp3" clipBegin="0:51:09.000" clipEnd="0:51:14.000"/>
+      </par>
+      <par id="ch14p04">
+        <text src="poglavlje14.xhtml#ch14p04"/>
+        <audio src="audio.mp3" clipBegin="0:51:14.000" clipEnd="0:51:18.500"/>
+      </par>
+      <par id="ch14p05">
+        <text src="poglavlje14.xhtml#ch14p05"/>
+        <audio src="audio.mp3" clipBegin="0:51:18.500" clipEnd="0:51:23.500"/>
+      </par>
+      <par id="ch14p06">
+        <text src="poglavlje14.xhtml#ch14p06"/>
+        <audio src="audio.mp3" clipBegin="0:51:23.50" clipEnd="0:51:25.000"/>
+      </par>
+      <par id="ch14p07">
+        <text src="poglavlje14.xhtml#ch14p07"/>
+        <audio src="audio.mp3" clipBegin="0:51:25.000" clipEnd="0:51:28.000"/>
+      </par>
+      <par id="ch14p08">
+        <text src="poglavlje14.xhtml#ch14p08"/>
+        <audio src="audio.mp3" clipBegin="0:51:28.000" clipEnd="0:51:30.000"/>
+      </par>
+      <par id="ch14p09">
+        <text src="poglavlje14.xhtml#ch14p09"/>
+        <audio src="audio.mp3" clipBegin="0:51:30.000" clipEnd="0:51:32.000"/>
+      </par>
+      <par id="ch14p10">
+        <text src="poglavlje14.xhtml#ch14p10"/>
+        <audio src="audio.mp3" clipBegin="0:51:32.000" clipEnd="0:51:35.000"/>
+      </par>
+      <par id="ch14p11">
+        <text src="poglavlje14.xhtml#ch14p11"/>
+        <audio src="audio.mp3" clipBegin="0:51:35.000" clipEnd="0:51:37.500"/>
+      </par>
+      <par id="ch14p12">
+        <text src="poglavlje14.xhtml#ch14p12"/>
+        <audio src="audio.mp3" clipBegin="0:51:37.500" clipEnd="0:51:44.000"/>
+      </par>
+      <par id="ch14p13">
+        <text src="poglavlje14.xhtml#ch14p13"/>
+        <audio src="audio.mp3" clipBegin="0:51:44.000" clipEnd="0:51:46.500"/>
+      </par>
+      <par id="ch14p14">
+        <text src="poglavlje14.xhtml#ch14p14"/>
+        <audio src="audio.mp3" clipBegin="0:51:46.500" clipEnd="0:51:50.500"/>
+      </par>
+      <par id="ch14p15">
+        <text src="poglavlje14.xhtml#ch14p15"/>
+        <audio src="audio.mp3" clipBegin="0:51:50.500" clipEnd="0:52:01.500"/>
+      </par>
+      <par id="ch14p16">
+        <text src="poglavlje14.xhtml#ch14p16"/>
+        <audio src="audio.mp3" clipBegin="0:52:01.500" clipEnd="0:52:05.000"/>
+      </par>
+      <par id="ch14p17">
+        <text src="poglavlje14.xhtml#ch14p17"/>
+        <audio src="audio.mp3" clipBegin="0:52:05.000" clipEnd="0:52:17.000"/>
+      </par>
+      <par id="ch14p18">
+        <text src="poglavlje14.xhtml#ch14p18"/>
+        <audio src="audio.mp3" clipBegin="0:52:17.000" clipEnd="0:52:19.000"/>
+      </par>
+      <par id="ch14p19">
+        <text src="poglavlje14.xhtml#ch14p19"/>
+        <audio src="audio.mp3" clipBegin="0:52:19.000" clipEnd="0:52:28.500"/>
+      </par>
+      <par id="ch14p20">
+        <text src="poglavlje14.xhtml#ch14p20"/>
+        <audio src="audio.mp3" clipBegin="0:52:28.500" clipEnd="0:52:32.500"/>
+      </par>
+      <par id="ch14p21">
+        <text src="poglavlje14.xhtml#ch14p21"/>
+        <audio src="audio.mp3" clipBegin="0:52:32.500" clipEnd="0:52:39.500"/>
+      </par>
+      <par id="ch14p22">
+        <text src="poglavlje14.xhtml#ch14p22"/>
+        <audio src="audio.mp3" clipBegin="0:52:39.500" clipEnd="0:52:41.000"/>
+      </par>
+      <par id="ch14p23">
+        <text src="poglavlje14.xhtml#ch14p23"/>
+        <audio src="audio.mp3" clipBegin="0:52:41.000" clipEnd="0:52:44.000"/>
+      </par>
+      <par id="ch14p24">
+        <text src="poglavlje14.xhtml#ch14p24"/>
+        <audio src="audio.mp3" clipBegin="0:52:44.000" clipEnd="0:52:46.000"/>
+      </par>
+      <par id="ch14p25">
+        <text src="poglavlje14.xhtml#ch14p25"/>
+        <audio src="audio.mp3" clipBegin="0:52:46.000" clipEnd="0:52:59.500"/>
+      </par>
+      <par id="ch14p26">
+        <text src="poglavlje14.xhtml#ch14p26"/>
+        <audio src="audio.mp3" clipBegin="0:52:59.500" clipEnd="0:53:04.000"/>
+      </par>
+      <par id="ch14p27">
+        <text src="poglavlje14.xhtml#ch14p27"/>
+        <audio src="audio.mp3" clipBegin="0:53:04.000" clipEnd="0:53:07.500"/>
+      </par>
+      <par id="ch14p28">
+        <text src="poglavlje14.xhtml#ch14p28"/>
+        <audio src="audio.mp3" clipBegin="0:53:07.500" clipEnd="0:53:12.000"/>
+      </par>
+      <par id="ch14p29">
+        <text src="poglavlje14.xhtml#ch14p29"/>
+        <audio src="audio.mp3" clipBegin="0:53:12.000" clipEnd="0:53:14.000"/>
+      </par>
+      <par id="ch14p30">
+        <text src="poglavlje14.xhtml#ch14p30"/>
+        <audio src="audio.mp3" clipBegin="0:53:14.000" clipEnd="0:53:32.000"/>
+      </par>
+      <par id="ch14p31">
+        <text src="poglavlje14.xhtml#ch14p31"/>
+        <audio src="audio.mp3" clipBegin="0:53:32.000" clipEnd="0:53:40.000"/>
+      </par>
+      <par id="ch14p32">
+        <text src="poglavlje14.xhtml#ch14p32"/>
+        <audio src="audio.mp3" clipBegin="0:53:40.000" clipEnd="0:53:44.000"/>
+      </par>
+      <par id="ch14p33">
+        <text src="poglavlje14.xhtml#ch14p33"/>
+        <audio src="audio.mp3" clipBegin="0:53:44.000" clipEnd="0:53:49.500"/>
+      </par>
+      <par id="ch14p34">
+        <text src="poglavlje14.xhtml#ch14p34"/>
+        <audio src="audio.mp3" clipBegin="0:53:49.500" clipEnd="0:53:52.000"/>
+      </par>
+      <par id="ch14p35">
+        <text src="poglavlje14.xhtml#ch14p35"/>
+        <audio src="audio.mp3" clipBegin="0:53:52.000" clipEnd="0:54:14.500"/>
+      </par>
+      <par id="ch14p36">
+        <text src="poglavlje14.xhtml#ch14p36"/>
+        <audio src="audio.mp3" clipBegin="0:54:14.500" clipEnd="0:54:18.500"/>
+      </par>
+      <par id="ch14p37">
+        <text src="poglavlje14.xhtml#ch14p37"/>
+        <audio src="audio.mp3" clipBegin="0:54:18.500" clipEnd="0:54:33.500"/>
+      </par>
+      <par id="ch14p38">
+        <text src="poglavlje14.xhtml#ch14p38"/>
+        <audio src="audio.mp3" clipBegin="0:54:33.500" clipEnd="0:54:45.000"/>
+      </par>
+    </seq>
+
+	</body>
+</smil>

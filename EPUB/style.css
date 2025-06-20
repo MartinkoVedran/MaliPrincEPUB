@@ -1,0 +1,95 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: normal;
+  font-style: normal;
+  src:url('Lora.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: bold;
+  font-style: normal;
+  src:url('Lora-Bold.woff2') format('woff2');
+}
+
+nav[epub|type="toc"],
+nav[epub|type="landmarks"] {
+  margin: 0;
+  padding: 0;
+}
+
+nav[epub|type="toc"] ol,
+nav[epub|type="toc"] ul,
+nav[epub|type="landmarks"] ol,
+nav[epub|type="landmarks"] ul {
+  list-style: none;
+  counter-reset: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  margin: 2%;
+  font-size: 16px;
+  font-family: 'Lora', serif;
+}
+h1, h2 {
+  text-align: center;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -epub-hyphens: none;
+  hyphens: none;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  font-size: 1em;
+  font-weight: normal;
+  text-align: center;
+  padding-bottom: 3em;
+}
+h1{
+  font-size: 3em;
+  font-family: 'Lora';
+  text-align: left;
+  line-height: 1em;
+}
+
+h2 + p  {
+  text-indent: 0;
+}
+p {
+  text-align: left;
+  text-indent: 3em;
+  font-size: 1em;
+  margin-top: 0;
+  font-family: 'Lora', serif;
+}
+
+section[epub|type~="glossary"] {
+  column-count: 2;
+  column-gap: 1em;
+}
+
+.Idesno{
+  font-family: 'Lora';
+  font-style: italic;
+  text-align: right;
+}
+
+.-epub-media-overlay-active {
+    background-color: yellow;
+    color: black !important;
+}
+
+html.-epub-media-overlay-playing * {
+    color: gray;
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epub-id">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+		<dc:identifier id="epub-id">urn:isbn:9789533283975</dc:identifier>
+  		<meta refines="#epub-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+
+   		<dc:source id="src-id">urn:isbn:9789533283975</dc:source>
+		<meta refines="#src-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+		<meta refines="#src-id" property="source-of">pagination</meta>
+
+		<meta property="dcterms:modified">2025-03-21T10:30:00Z</meta>
+
+		<dc:title>Mali Princ</dc:title>
+
+		<dc:language>hr</dc:language>
+
+		<dc:description>Pripovjedačevo upoznavanje Malog princa dok popravlja svoj avion; potraga princa za shvaćanjem što mu cvijet znači; perspektiva i vjerodostojnost odraslih.</dc:description>
+
+		<dc:creator id="author">Antoine de Saint-Exupéry</dc:creator>
+		<meta refines="#author" property="role" scheme="marc:relators">aut</meta>
+		<meta refines="#author" property="file-as">Saint-Exupéry, Antoine</meta>
+
+		<dc:creator id="illustrator">Antoine de Saint-Exupéry</dc:creator>
+		<meta refines="#illustrator" property="role" scheme="marc:relators">ill</meta>
+		<meta refines="#illustrator" property="file-as">Saint-Exupéry, Antoine</meta>
+
+		<dc:contributor id="translator">Sanja Lovrenčić</dc:contributor>
+		<meta refines="#translator" property="role" scheme="marc:relators">trl</meta>
+
+		<dc:publisher>Bulaja naklada d.o.o.</dc:publisher>
+
+		<dc:date>2018-01-01T00:00:00Z</dc:date>
+
+		<dc:subject id="subject1">JUVENILE FICTION / Fantasy / General</dc:subject>
+		<meta refines="#subject1" property="authority">BISAC</meta>
+		<meta refines="#subject1" property="term">JUV037000</meta>
+
+		<meta property="media:active-class">-epub-media-overlay-active</meta>
+  		<meta property="media:playback-active-class">-epub-media-overlay-playing</meta>
+
+		<meta property="media:duration" refines="#audiooverlay">0:54:45.000</meta>
+  		<meta property="media:duration">1:50:43.069</meta>
+	</metadata>
+	<manifest>
+		<item href="style.css" id="style" media-type="text/css"/>
+
+		<item href="img/008.jpg" id="img008" media-type="image/jpeg"/>
+		<item href="img/030.jpg" id="img030" media-type="image/jpeg"/>
+		<item href="img/031.jpg" id="img031" media-type="image/jpeg"/>
+		<item href="img/034.jpg" id="img034" media-type="image/jpeg"/>
+		<item href="img/037.jpg" id="img037" media-type="image/jpeg"/>
+		<item href="img/042.jpg" id="img042" media-type="image/jpeg"/>
+		<item href="img/045.jpg" id="img045" media-type="image/jpeg"/>
+		<item href="img/051.jpg" id="img051" media-type="image/jpeg"/>
+		<item href="img/055.jpg" id="img055" media-type="image/jpeg"/>
+		<item href="img/058.jpg" id="img058" media-type="image/jpeg"/>
+		<item href="img/061.jpg" id="img061" media-type="image/jpeg"/>
+		<item href="img/064.jpg" id="img064" media-type="image/jpeg"/>
+		<item href="img/069.jpg" id="img069" media-type="image/jpeg"/>
+		<item href="img/072.jpg" id="img072" media-type="image/jpeg"/>
+		<item href="img/077.jpg" id="img077" media-type="image/jpeg"/>
+		<item href="img/085.jpg" id="img085" media-type="image/jpeg"/>
+		<item href="img/087.jpg" id="img087" media-type="image/jpeg"/>
+		<item href="img/090.jpg" id="img090" media-type="image/jpeg"/>
+		<item href="img/093.jpg" id="img093" media-type="image/jpeg"/>
+		<item href="img/096.jpg" id="img096" media-type="image/jpeg"/>
+		<item href="img/099.jpg" id="img099" media-type="image/jpeg"/>
+		<item href="img/108.jpg" id="img108" media-type="image/jpeg"/>
+		<item href="img/113.jpg" id="img113" media-type="image/jpeg"/>
+		<item href="img/118.jpg" id="img118" media-type="image/jpeg"/>
+		<item href="img/127.jpg" id="img127" media-type="image/jpeg"/>
+		<item href="img/132.jpg" id="img132" media-type="image/jpeg"/>
+		<item href="img/141.jpg" id="img141" media-type="image/jpeg"/>
+		<item href="img/146.jpg" id="img146" media-type="image/jpeg"/>
+		<item href="img/149.jpg" id="img149" media-type="image/jpeg"/>
+		<item href="img/157.jpg" id="img157" media-type="image/jpeg"/>
+		<item href="img/160.jpg" id="img160" media-type="image/jpeg"/>
+		<item href="img/163.jpg" id="img163" media-type="image/jpeg"/>
+		<item href="img/166.jpg" id="img166" media-type="image/jpeg"/>
+		<item href="img/169.jpg" id="img169" media-type="image/jpeg"/>
+		<item href="img/178.jpg" id="img178" media-type="image/jpeg"/>
+		<item href="img/187.jpg" id="img187" media-type="image/jpeg"/>
+		<item href="img/192.jpg" id="img192" media-type="image/jpeg"/>
+		<item href="img/195.jpg" id="img195" media-type="image/jpeg"/>
+		<item href="img/202.jpg" id="img202" media-type="image/jpeg"/>
+		<item href="img/205.jpg" id="img205" media-type="image/jpeg"/>
+		<item href="img/210.jpg" id="img210" media-type="image/jpeg"/>
+
+		<item href="img/021.png" id="img021" media-type="image/png"/>
+		<item href="img/040.png" id="img040" media-type="image/png"/>
+		<item href="img/041.png" id="img041" media-type="image/png"/>
+		<item href="img/048.png" id="img048" media-type="image/png"/>
+		<item href="img/054.png" id="img054" media-type="image/png"/>
+		<item href="img/082.png" id="img082" media-type="image/png"/>
+		<item href="img/086.png" id="img086" media-type="image/png"/>
+		<item href="img/152.png" id="img152" media-type="image/png"/>
+
+		<item id="p1" href="poglavlje1.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p2" href="poglavlje2.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p3" href="poglavlje3.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p4" href="poglavlje4.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="audiooverlay" href="audiooverlay.smil" media-type="application/smil+xml"/>
+		<item id="m001" href="audio.mp3" media-type="audio/mpeg"/>
+
+		<item id="p5" href="poglavlje5.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p6" href="poglavlje6.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p7" href="poglavlje7.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p8" href="poglavlje8.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p9" href="poglavlje9.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p10" href="poglavlje10.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p11" href="poglavlje11.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p12" href="poglavlje12.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p13" href="poglavlje13.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p14" href="poglavlje14.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay"/>
+		<item id="p15" href="poglavlje15.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p16" href="poglavlje16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p17" href="poglavlje17.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p18" href="poglavlje18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p19" href="poglavlje19.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p20" href="poglavlje20.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p21" href="poglavlje21.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p22" href="poglavlje22.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p23" href="poglavlje23.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p24" href="poglavlje24.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p25" href="poglavlje25.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p26" href="poglavlje26.xhtml" media-type="application/xhtml+xml"/>
+		<item id="p27" href="poglavlje27.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="rjecnik" href="rjecnik.xhtml" media-type="application/xhtml+xml"/>
+		<item id="impressum" href="impressum.xhtml" media-type="application/xhtml+xml"/>
+
+		<item id="oautoru" href="oautoru.xhtml" media-type="application/xhtml+xml"/>
+		<item id="predgovor" href="predgovor.xhtml" media-type="application/xhtml+xml"/>
+		<item id="maliprinc" href="maliprinc.xhtml" media-type="application/xhtml+xml" media-overlay="audiooverlay" properties="scripted"/>
+
+		<item id="navdoc" href="sadrzaj.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+
+		<item id="lorai" href="https://fonts.googleapis.com/css2?family=Lora:ital@1" media-type="font/ttf" />
+        <item id="lorab" href="https://fonts.googleapis.com/css2?family=Lora:wght@700" media-type="font/ttf" />
+        <item id="lora" href="Lora.woff2" media-type="font/woff2" />
+		<item id="loraBold" href="Lora-Bold.woff2" media-type="font/woff2" />
+
+		<item id="cover-img" href="img/naslovnica.jpg" media-type="image/jpeg" properties="cover-image" />
+		<item id="stranica2" href="stranica2.svg" media-type="image/svg+xml" />
+
+		<item id="video" href="video.xhtml" media-type="application/xhtml+xml" properties="remote-resources" />
+		<item id="video1" href="video/TheLittlePrince1979.mp4" media-type="video/mp4" />
+		<item id="video2" href="https://gallery-hr.com/TheLittlePrince1979.webm" media-type="video/webm" />
+		<item id="poster" href="img/TheLittlePrince1979.jpg" media-type="image/jpeg" />
+    </manifest>
+
+	<spine>
+		<itemref idref="stranica2"/>
+		<itemref idref="navdoc"/>
+		<itemref idref="oautoru"/>
+		<itemref idref="predgovor"/>
+		<itemref idref="maliprinc"/>
+
+		<itemref idref="p1"/>
+		<itemref idref="p2"/>
+		<itemref idref="p3"/>
+		<itemref idref="p4"/>
+		<itemref idref="p5"/>
+		<itemref idref="p6"/>
+		<itemref idref="p7"/>
+		<itemref idref="p8"/>
+		<itemref idref="p9"/>
+		<itemref idref="p10"/>
+		<itemref idref="p11"/>
+		<itemref idref="p12"/>
+		<itemref idref="p13"/>
+		<itemref idref="p14"/>
+		<itemref idref="p15"/>
+		<itemref idref="p16"/>
+		<itemref idref="p17"/>
+		<itemref idref="p18"/>
+		<itemref idref="p19"/>
+		<itemref idref="p20"/>
+		<itemref idref="p21"/>
+		<itemref idref="p22"/>
+		<itemref idref="p23"/>
+		<itemref idref="p24"/>
+		<itemref idref="p25"/>
+		<itemref idref="p26"/>
+		<itemref idref="p27"/>
+		<itemref idref="rjecnik"/>
+		<itemref idref="impressum"/>
+		<itemref idref="video"/>
+	</spine>
+</package>
